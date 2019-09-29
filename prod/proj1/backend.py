@@ -1,5 +1,5 @@
 
-import datetime
+from datetime import datetime
 
 foo = 'bar'
 ts_start = datetime.now().timestamp()
