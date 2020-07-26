@@ -1,4 +1,4 @@
 {
-  "server": "a json server",
-  "foo": "bar"
+  "Server": "a json server",
+  "Foo": "bar"
 }
